@@ -1,0 +1,18 @@
+{
+  "channels": [
+    {
+      "name": "Push",
+      "id": "UID-Server",
+      "participants": [
+        {
+          "name": "name1",
+          "token": "#Authorization Discord"
+        },
+        {
+          "name": "name2",
+          "token": "#Authorization Discord"
+        }
+      ]
+    }
+  ]
+}
